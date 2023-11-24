@@ -7,15 +7,9 @@
 
 - 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **how to listen better (says my gf)**
-
-- 🤝 I’m looking for help with **finding a job**
-
 - 👨‍💻 All of my projects are available at [github](github)
 
 - 📫 How to reach me **theophilus.josiah@hotmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
